@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekjadhav3470
-- 👀 I’m interested in Data science Field
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on the open source 
 - 📫 How to reach me abhishekjadhav3470@gmail.com
