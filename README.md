@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishekjadhav3470
+- 👋 Hi, I’m Abhishek Jadhav
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on the open source 
