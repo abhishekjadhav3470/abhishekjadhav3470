@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Jadhav
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on the open source 
 - 📫 How to reach me abhishekjadhav3470@gmail.com
 
