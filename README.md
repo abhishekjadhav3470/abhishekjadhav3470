@@ -1,9 +1,7 @@
 <h1 align="center">Abhishek Jadhav</h1>
 
 <p align="center">
-  <a href="mailto:abhishekjadhav3470@gmail.com">abhishekjadhav3470@gmail.com</a>
-</p>
-
+  <a href="mailto:abhishekjadhav3470@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhishekjadhav3470%40gmail.com-blue?style=for-the-badge" alt="Email">
   </a>
 </p>
@@ -26,6 +24,9 @@
 </p>
 
 <p align="center">
+    <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="Scikit-Learn">
+  </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="GitHub">
   </a>
