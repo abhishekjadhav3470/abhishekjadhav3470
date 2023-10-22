@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">Data Science |Machine Learning| Deep Learning | Computer Vision</p>
+<p align="center">Data Science | Machine Learning | Deep Learning | Computer Vision</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/">
