@@ -1,7 +1,9 @@
 <h1 align="center">Abhishek Jadhav</h1>
 
 <p align="center">
-  <a href="mailto:abhishekjadhav3470@gmail.com">
+  <a href="mailto:abhishekjadhav3470@gmail.com">abhishekjadhav3470@gmail.com</a>
+</p>
+
     <img src="https://img.shields.io/badge/Email-abhishekjadhav3470%40gmail.com-blue?style=for-the-badge" alt="Email">
   </a>
 </p>
