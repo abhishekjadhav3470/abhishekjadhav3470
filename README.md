@@ -24,9 +24,6 @@
 </p>
 
 <p align="center">
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/Scikit-Learn-learn-orange?style=for-the-badge" alt="Scikit-Learn">
-  </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="GitHub">
   </a>
