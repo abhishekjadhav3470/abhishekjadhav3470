@@ -23,6 +23,24 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-brightgreen?style=for-the-badge" alt="Computer Vision">
 </p>
 
+<p align="center">
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://img.shields.io/badge/Scikit-Learn-learn-orange?style=for-the-badge" alt="Scikit-Learn">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-User-007ACC?style=for-the-badge" alt="VS Code">
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge" alt="Jupyter Notebook">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-Enthusiast-2496ED?style=for-the-badge" alt="Docker">
+  </a>
+</p>
+
 ### About Me
 
 - 👋 Hi, I'm Abhishek Jadhav
