@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">Jr.Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
 
