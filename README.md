@@ -1,5 +1,7 @@
 <h1 align="center">Abhishek Jadhav</h1>
 
+<h3 align="center">Data Science | Deep Learning | Computer Vision</h3>
+
 <p align="center">
   <a href="mailto:abhishekjadhav3470@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhishekjadhav3470%40gmail.com-blue?style=for-the-badge" alt="Email">
@@ -9,7 +11,7 @@
 <p align="center">Data Science | Deep Learning | Computer Vision</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://github.com/abhishekjadhav3470">
@@ -24,28 +26,19 @@
 </p>
 
 <p align="center">
-  <a href="https://scikit-learn.org/stable/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="Scikit-Learn">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge" alt="Python">
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-User-007ACC?style=for-the-badge" alt="VS Code">
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge" alt="Jupyter Notebook">
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-Enthusiast-2496ED?style=for-the-badge" alt="Docker">
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scikit-Learn-User-F7931E?style=for-the-badge" alt="Scikit-Learn">
   </a>
 </p>
 
 ### About Me
 
 - 👋 Hi, I'm Abhishek Jadhav
-- 👀 I'm passionate about Data Science.
-- 🌱 I'm currently learning Deep Learning and Computer Vision.
-- 💼 Open to collaboration on open-source projects.
+- 👀 Passionate about Data Science.
+- 🌱 Currently learning Deep Learning and Computer Vision.
+- 💼 Open to collaboration on data science projects.
 
-Feel free to reach out via [Email](mailto:abhishekjadhav3470@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+Feel free to reach out via [Email](mailto:abhishekjadhav3470@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
