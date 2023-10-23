@@ -1,13 +1,13 @@
 <h1 align="center">Abhishek Jadhav</h1>
 
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
 
 - :telescope: I’m currently working on **Machine Learning Projects**
 - :seedling: I’m currently learning **Deep Learning, Computer Vision**
 - :handshake: I’m looking for help with **Data Science**
-- :male-technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
+- :male_technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
 - :speech_bubble: Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision**
 - :mailbox: How to reach me **abhishekjadhav3470@gmail.com**
 
