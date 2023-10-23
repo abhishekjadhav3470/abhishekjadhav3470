@@ -8,7 +8,7 @@
 - :seedling: I’m currently learning **Deep Learning, Computer Vision**
 - :handshake: I’m looking for help with **Data Science**
 - :male-technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
-- :speech_bubble: Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake**
+- :speech_bubble: Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision**
 - :mailbox: How to reach me **abhishekjadhav3470@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,9 +39,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
