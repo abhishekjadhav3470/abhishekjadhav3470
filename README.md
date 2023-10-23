@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <a href="https://scikit-learn.org/stable/">
+  <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge" alt="Scikit-Learn">
   </a>
   <a href="https://github.com/">
@@ -49,5 +49,3 @@
 - 💼 Open to collaboration on open-source projects.
 
 Feel free to reach out via [Email](mailto:abhishekjadhav3470@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
-
-<!-- You can further customize and add more sections as needed. -->
