@@ -1,44 +1,62 @@
 <h1 align="center">Abhishek Jadhav</h1>
 
-<h3 align="center">Data Science | Deep Learning | Computer Vision</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="center">
-  <a href="mailto:abhishekjadhav3470@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishekjadhav3470%40gmail.com-blue?style=for-the-badge" alt="Email">
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
+
+- :telescope: I’m currently working on **Machine Learning Projects**
+- :seedling: I’m currently learning **Deep Learning, Computer Vision**
+- :handshake: I’m looking for help with **Data Science**
+- :male-technologist: All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470?tab=repositories)
+- :speech_bubble: Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake**
+- :mailbox: How to reach me **abhishekjadhav3470@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/your-linkedin-profile" height="30" width="40" />
+</a>
 </p>
 
-<p align="center">Data Science | Deep Learning | Computer Vision</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://github.com/abhishekjadhav3470">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge" alt="GitHub">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-brightgreen?style=for-the-badge" alt="Data Science">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Practitioner-brightgreen?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Computer%20Vision-Enthusiast-brightgreen?style=for-the-badge" alt="Computer Vision">
-</p>
-
-<p align="center">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge" alt="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit-Learn-User-F7931E?style=for-the-badge" alt="Scikit-Learn">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
 
-### About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekjadhav3470&show_icons=true&locale=en&layout=compact" alt="abhishekjadhav3470" /></p>
 
-- 👋 Hi, I'm Abhishek Jadhav
-- 👀 Passionate about Data Science.
-- 🌱 Currently learning Deep Learning and Computer Vision.
-- 💼 Open to collaboration on data science projects.
-
-Feel free to reach out via [Email](mailto:abhishekjadhav3470@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjadhav3470&show_icons=true&locale=en" alt="abhishekjadhav3470" /></p>
