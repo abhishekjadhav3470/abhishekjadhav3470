@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
-<h3 align="center">A Data Science Enthusiast </h3>
+<h3 align="center">Jr. Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👯 I’m looking to collaborate with **Data Scientist for Open-Source Contribution**
+- 👯 I’m looking to collaborate with **Data Scientist's for Open-Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470)
 
