@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Data Science Domain**
-
-- 🤝 I’m looking for help with **Data Science**
+- 👯 I’m looking to collaborate with **Data Scientist for Open-Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470)
 
