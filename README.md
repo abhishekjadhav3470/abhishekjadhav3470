@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
+- 🌱 I’m currently learning **Computer Vision(CV) and Natural Language Processing(NLP)**
 
 - 👯 I’m looking to collaborate with **Data Scientist's for Open-Source Contribution**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470)
 
-- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision**
+- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision, Docker**
 
 - 📫 How to reach me **abhishekjadhav3470@gmail.com**
 
