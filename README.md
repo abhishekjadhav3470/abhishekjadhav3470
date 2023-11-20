@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470)
 
-- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision, Docker**
+- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Deep Learning, Computer Vision, Docker**
 
 - 📫 How to reach me **abhishekjadhav3470@gmail.com**
 
