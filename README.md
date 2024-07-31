@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
-<h3 align="center">Jr. Data Scientist</h3>
+<h3 align="center">Jr. Data Scientist and DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjadhav3470&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjadhav3470" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekjadhav3470](https://github.com/abhishekjadhav3470)
 
-- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Deep Learning, Computer Vision, Docker**
+- 💬 Ask me about **SQL, Python, Machine Learning, Statistics, AWS, Deep Learning, Computer Vision, Docker, Linux**
 
 - 📫 How to reach me **abhishekjadhav3470@gmail.com**
 
